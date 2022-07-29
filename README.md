@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wildrocket16
 - 👀 I’m interested in coding, minecraft
-- 🌱 I’m currently learning, nothing
+- 🌱 I’m currently learning, JavaScript
 - 💞️ I’m looking to collaborate on whatever
 - 📫 How to reach me you can text me at idkwildrocket101@gmail.com
 
